@@ -5,12 +5,11 @@ permalink: /education/
 author_profile: true
 ---
 
-## Bachelor of Science in Computer Science
-**Major:** Computer Science 
-**Minor:** Mathematics  
-**Institution:** Texas Wesleyan University  
-**Duration:** Fall 2014 - Spring 2018
+## Master of Science in Mechanical Engineering
+**Major:** Mechanical Engineering
+**Institution:** University of Texas at Arlington   
+**Duration:** Fall 2018 - Spring 2020
 
-## Ph.D. in Computer Science
+## Ph.D. in Civil Engineering
 **Institution:** University of Texas at Arlington  
-**Duration:** Fall 2018 - Fall 2024
+**Duration:** Fall 2020 - Summer 2024
