@@ -5,32 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Manuscripts Under Review / Preparation**
-
-  * **Data Debugging**  
-    <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Preparation.
-
-  * **Effect Of Model Compression on Influence Analysis**  
-    <u>Sunny Shree</u> , Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    Under Preparation.
-
 **2024**
 
-  * **Constructing Surrogate Models in Machine Learning Using Combinatorial Testing and Active Learning.**  
-    <u>Sunny Shree</u> , Krishna Khadka, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    In 2024 IEEE/ACM Automated Software Engineering (ASE) Conference, IEEE/ACM.
-    
-  * **Proxima: A Proxy Model Based Approach To Influence Analysis**  
-    <u>Sunny Shree</u> , Jaganmohan Chandrasekaran, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    In 2024 IEEE International Conference On Artificial Intelligence Testing (AITest), IEEE.
+  * **Characteristics and Models of Moisture Uptake in Fiber-Reinforced Composites: A Topical Review.**  
+    <u>Behnaz Hassanpour</u> , and Vistasp M.Karbhari.
+    Polymers 16, no. 16 (2024): 2265. -- [Article](https://www.mdpi.com/2073-4360/16/16/2265).
 
-  * **Assessing the Degree of Feature Interactions that Determine a Model Prediction**  
-    Krishna Khadka, <u>Sunny Shree</u> , Yu Lei, Raghu Kacker, and D. Richard Kuhn.
-    2024 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW).
+  * **Glass transition temperature as a characteristic of the durability of fiber-reinforced polymer composites**  
+    <u>Behnaz Hassanpour</u> , and Vistasp M.Karbhari.
+    In Aging and Durability of FRP Composites and Nanocomposites, pp. 341-362. Woodhead Publishing, 2024. -- [Article](https://www.sciencedirect.com/science/article/pii/B9780443155451000020).
+
+**2023**
+
+  * **Moisture and Glass Transition Temperature Kinetics of Ambient-Cured Carbon/Epoxy Composites**  
+    <u>Behnaz Hassanpour</u> , and Vistasp M.Karbhari.
+    Journal of Composites Science 7, no. 11 (2023): 447. -- [Article](https://www.mdpi.com/2504-477X/7/11/447).
     
 ***2022***
 
-  * **DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations**  
-    <u>Sunny Shree</u> , Jaganmohan Chandrasekaran, Yu Lei, D. Richard Kuhn, and Raghu Kacker.  
-    In 2022 IEEE International Conference On Artificial Intelligence Testing (AITest), IEEE -- [Article](https://ieeexplore.ieee.org/abstract/document/9898123).
+  * **Water, saltwater, and concrete leachate solution effects on durability of ambient‐temperature cure carbon‐epoxy composites**  
+    Vistasp M.Karbhari, and <u>Behnaz Hassanpour</u>.
+    Journal of Applied Polymer Science 139, no. 27 (2022): e52496 -- [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/app.52496).
