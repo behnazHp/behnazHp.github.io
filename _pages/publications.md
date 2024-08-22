@@ -24,5 +24,6 @@ author_profile: true
 ***2022***
 
   * **Water, saltwater, and concrete leachate solution effects on durability of ambient‐temperature cure carbon‐epoxy composites**  
-    Vistasp M.Karbhari, and <u>Behnaz Hassanpour</u> .
+    Vistasp M.Karbhari, and <u>Behnaz Hassanpour</u>.
+    
     Journal of Applied Polymer Science 139, no. 27 (2022): e52496 -- [Article](https://onlinelibrary.wiley.com/doi/full/10.1002/app.52496).
