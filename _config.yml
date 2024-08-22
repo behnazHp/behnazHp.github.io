@@ -12,9 +12,9 @@ title                    : "Behnaz Hassanpour, Ph.D. Student / ABD"
 title_separator          : "-"
 name                     : &name "Behnaz Hassanpour"
 description              : &description "personal description"
-url                      : https://behnazhassanpour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://behnazHp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "behnazhassanpour/behnazhassanpour.github.io"
+repository               : "behnazHp/behnazHp.github.io"
 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -90,11 +90,11 @@ author:
   location         : "Arlington, Texas"
   employer         : "University of Texas at Arlington"
   uri              : # URL
-  email            : "sunny.shree@mavs.uta.edu" 
+  email            : "behnaz.hassanpour@mavs.uta.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=mZX8dgcAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=nZJ6MYwAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0000-2276-2418"
   semantic         : # URL
