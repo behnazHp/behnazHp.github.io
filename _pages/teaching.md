@@ -53,9 +53,8 @@ author_profile: true
    * Society of Women Engineers (SWE) & Monitoring Officer in Conference
    
    * National Society of Black Engineers (NSBE)
-   
-   * Digital Divas 2020  
-     Participated on a college panel to promote the presence of women in STEM, share advice on being women in STEM, and inspire more women to choose engineering as a career.
+ 
+   * ASME 
    
    * Member of college panel (Digital Divas 2020)  
      Participated on a college panel at Digital Divas 2020, an event that introduces girls to engineering and promotes the presence of women in STEM. Shared advice on college and what it means to become an engineer.
