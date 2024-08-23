@@ -6,7 +6,56 @@ author_profile: true
 ---
 
 * **Teaching Assistant**
-    * TA for CSE 5325: ***Software Engineering II*** - Spring'20, Fall'20, Spring'21, Fall'24
-    * TA for CSE 5330: ***Database Systems*** - Summer'20
-    * TA for CSE 6324: ***Advanced Topic Software Engineering*** - Fall'18, Spring'19, Fall'19
- 
+    * TA for **Thermodynamics 1/2***
+    * TA for ***Thermal Engineering***
+    * TA for ***Introduction to Manufacturing Engineering***
+    * TA for ***Thermodynamics and Heat Transfer***
+    * TA for ***Mechanics of Materials 1***
+
+* **HONOR & AWARD**
+   * Civil & Environmental Engineering STEM Doctoral Fellowship  
+     Spring 2022 - Spring 2024
+   
+   * DDOC COE Civil Engineering  
+     Fall 2022 – Spring 2023
+   
+   * Civil Engineering Scholarship  
+     Fall 2022 – Spring 2023
+   
+   * Civ & Env Eng DACA Schol  
+     Fall 2022 – Spring 2023
+   
+   * DDDA MAE Scholarship  
+     Fall 2020 – Fall 2021
+   
+   * MAE A. Haji-Sheikh Scholarship  
+     Fall 2020 – Spring 2021
+   
+   * DDOC COE Mech & Aerospace Engineering  
+     Fall 2020 – Fall 2021
+   
+   * Mech & Aerosp Engr STEM Flwshp  
+     Fall 2020 – Spring 2021
+   
+   * DDDA MAE Scholarship  
+     Fall 2020 – Spring 2021
+   
+   * Mechanical Dept. Chair Graduate Assistantship  
+     Aug 2019 - May 2020
+   
+   * Receiving CoE Research Experiences for Undergraduates (REU) Program award  
+     Aug 2019 - May 2020
+   
+   * UTARI STEM Doc Fellowship  
+     Fall 2018 - Summer 2019
+
+* **MEMBERSHIP & ACTIVITIES**
+   * Society of Women Engineers (SWE) & Monitoring Officer in Conference
+   
+   * National Society of Black Engineers (NSBE)
+   
+   * Digital Divas 2020  
+     Participated on a college panel to promote the presence of women in STEM, share advice on being women in STEM, and inspire more women to choose engineering as a career.
+   
+   * Member of college panel (Digital Divas 2020)  
+     Participated on a college panel at Digital Divas 2020, an event that introduces girls to engineering and promotes the presence of women in STEM. Shared advice on college and what it means to become an engineer.
