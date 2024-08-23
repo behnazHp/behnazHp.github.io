@@ -57,7 +57,7 @@ author_profile: true
    
    * National Society of Black Engineers (NSBE)
  
-   * American Society Civil Engineering (ASCE) 
+   * American Society Civil Engineers (ASCE) 
    
    * Member of college panel (Digital Divas 2020)  
      Participated on a college panel at Digital Divas 2020, an event that introduces girls to engineering and promotes the presence of women in STEM. Shared advice on college and what it means to become an engineer.
