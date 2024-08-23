@@ -9,7 +9,7 @@ author_profile: true
 **Major:** Mechanical Engineering  
 **Institution:** University of Texas at Arlington   
 **Duration:** Fall 2018 - Spring 2020  
-**Dissertation Thesis:** Investigation of Microstructure and Viscoelastic Properties of SLM IN718 Following Different Heat Treatment
+**Dissertation Thesis:** Investigation of Microstructure and Viscoelastic Properties of Selectively Laser Melted (SLM) IN718 Following Different Heat Treatment
 
 
 ## Ph.D. in Civil Engineering
