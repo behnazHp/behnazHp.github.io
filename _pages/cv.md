@@ -10,4 +10,4 @@ redirect_from:
 <!--
 reference : https://bensdm.github.io/portfolio/
 -->
-<embed src="https://behnazhp.github.io/files/ResumeBehnaz.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://behnazHp.github.io/files/ResumeBehnaz.pdf" type="application/pdf" width="600px" height="500px" />
