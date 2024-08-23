@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 * **Teaching Assistant**
-    * TA for **Thermodynamics 1/2***
-    * TA for ***Thermal Engineering***
-    * TA for ***Introduction to Manufacturing Engineering***
-    * TA for ***Thermodynamics and Heat Transfer***
-    * TA for ***Mechanics of Materials 1***
+    * Thermodynamics 1/2
+    * Thermal Engineering
+    * Introduction to Manufacturing Engineering
+    * Thermodynamics and Heat Transfer
+    * Mechanics of Materials 1
 
 * **HONOR & AWARD**
    * Civil & Environmental Engineering STEM Doctoral Fellowship  
