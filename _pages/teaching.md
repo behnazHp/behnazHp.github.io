@@ -13,20 +13,23 @@ author_profile: true
     * Mechanics of Materials 1
 
 * **HONOR & AWARD**
-   * Civil & Environmental Engineering STEM Doctoral Fellowship  
-     Spring 2022 - Spring 2024
+   * Graduate School Dissertation Fellowship  
+     May 2024 - Aug 2024  
+     
+   * Civil & Environmental Engineering STEM Doctoral Fellowship   
+     Spring 2022 - Spring 2024  
    
    * DDOC COE Civil Engineering  
-     Fall 2022 – Spring 2023
+     Fall 2022 – Spring 2023  
    
    * Civil Engineering Scholarship  
-     Fall 2022 – Spring 2023
+     Fall 2022 – Spring 2023  
    
    * Civ & Env Eng DACA Schol  
-     Fall 2022 – Spring 2023
+     Fall 2022 – Spring 2023  
    
    * DDDA MAE Scholarship  
-     Fall 2020 – Fall 2021
+     Fall 2020 – Fall 2021  
    
    * MAE A. Haji-Sheikh Scholarship  
      Fall 2020 – Spring 2021
@@ -54,7 +57,7 @@ author_profile: true
    
    * National Society of Black Engineers (NSBE)
  
-   * ASME 
+   * American Society Civil Engineering (ASCE) 
    
    * Member of college panel (Digital Divas 2020)  
      Participated on a college panel at Digital Divas 2020, an event that introduces girls to engineering and promotes the presence of women in STEM. Shared advice on college and what it means to become an engineer.
