@@ -10,4 +10,4 @@ redirect_from:
 <!--
 reference : https://bensdm.github.io/portfolio/
 -->
-<embed src="https://sunnyshreexai/files/cv_jagan.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://behnazhp/files/resumeBehnaz.pdf" type="application/pdf" width="600px" height="500px" />
