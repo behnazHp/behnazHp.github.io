@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* **Teaching Experience**
+* **TEACHING EXPERIENCE**
     * Thermodynamics 1 & 2
     * Thermal Engineering
     * Introduction to Manufacturing Engineering
     * Thermodynamics and Heat Transfer
     * Mechanics of Materials 1
 
-* **Honor & Award**
+* **HONOR & AWARD**
    * Graduate School Dissertation Fellowship  
      May 2024 - Aug 2024  
      
