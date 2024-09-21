@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Behnaz Hassanpour, Ph.D. Student / ABD"
+title                    : "Behnaz Hassanpour, Ph.D."
 title_separator          : "-"
 name                     : &name "Behnaz Hassanpour"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   # Biographic information
   avatar           : "behnaz.jpeg"
   name             : "Behnaz Hassanpour"
-  bio              : "Ph.D. Student (ABD)"
+  bio              : "Civil and Mechanical Engineering"
   location         : "Arlington, Texas"
   employer         : "University of Texas at Arlington"
   uri              : # URL
