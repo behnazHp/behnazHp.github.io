@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* **Teaching Experience **
+* **Teaching Experience**
     * Thermodynamics 1 and2
     * Thermal Engineering
     * Introduction to Manufacturing Engineering
