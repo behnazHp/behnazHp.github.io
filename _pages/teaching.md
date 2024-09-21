@@ -12,7 +12,7 @@ author_profile: true
     * Thermodynamics and Heat Transfer
     * Mechanics of Materials 1
 
-* **HONOR & AWARD**
+* **Honor & Award**
    * Graduate School Dissertation Fellowship  
      May 2024 - Aug 2024  
      
