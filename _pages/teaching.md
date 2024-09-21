@@ -5,14 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* **TEACHING EXPERIENCE**
+* **Teaching Experience**
     * Thermodynamics 1 & 2
     * Thermal Engineering
     * Introduction to Manufacturing Engineering
     * Thermodynamics and Heat Transfer
     * Mechanics of Materials 1
 
-* **HONOR & AWARD**
+* **Honor & Award**
    * Graduate School Dissertation Fellowship  
      May 2024 - Aug 2024  
      
@@ -52,7 +52,7 @@ author_profile: true
    * UTARI STEM Doc Fellowship  
      Fall 2018 - Summer 2019
 
-* **MEMBERSHIP & ACTIVITIES**
+* **Membership & Activities**
    * Society of Women Engineers (SWE) & Monitoring Officer in Conference
    
    * National Society of Black Engineers (NSBE)
