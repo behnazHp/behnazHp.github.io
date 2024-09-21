@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-* **Teaching Assistant**
-    * Thermodynamics 1/2
+* **Teaching Experience **
+    * Thermodynamics 1 and2
     * Thermal Engineering
     * Introduction to Manufacturing Engineering
     * Thermodynamics and Heat Transfer
