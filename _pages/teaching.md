@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Teaching Experience**
-    * Thermodynamics 1 and2
+    * Thermodynamics 1 & 2
     * Thermal Engineering
     * Introduction to Manufacturing Engineering
     * Thermodynamics and Heat Transfer
